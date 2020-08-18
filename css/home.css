@@ -69,6 +69,7 @@
     letter-spacing: 0.08em;
     color:#6B4C4C;
     font-size: 48px;
+    line-height: 2em;
 }
 .first p, .second p{
     font-weight: lighter;
