@@ -1,0 +1,22 @@
+.vision_container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    overflow: scroll;
+}
+.vision_content{
+    margin-top:25vh;
+    margin-bottom:10px;
+    background-color: #D4EDBB;
+    border-top-left-radius: 15vw;
+    border-bottom-right-radius: 15vw;
+    width: 40%;
+    padding: 5em;
+    font-family: 'Roboto';
+    line-height: 2em;
+}
+h1{
+    padding-bottom:1em;
+}
+
+
