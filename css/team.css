@@ -23,7 +23,7 @@
     letter-spacing: .2em;
 }
 .pics_container{
-    margin-top: 20px;
+    margin-top: 40px;
     display: flex;
     flex-direction: row;
 }

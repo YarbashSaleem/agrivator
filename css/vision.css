@@ -1,8 +1,11 @@
+*{
+    margin: 0px;
+}
 .vision_container{
     display: flex;
-    justify-content: center;
+    flex-direction: row;
     width: 100%;
-    overflow: scroll;
+    overflow-x: hidden;
 }
 .vision_content{
     margin-top:25vh;
@@ -10,13 +13,20 @@
     background-color: #D4EDBB;
     border-top-left-radius: 15vw;
     border-bottom-right-radius: 15vw;
-    width: 40%;
+    width: 100vw;
     padding: 5em;
     font-family: 'Roboto';
     line-height: 2em;
+    transform: translateX(50%);
 }
 h1{
     padding-bottom:1em;
+}
+.vision_image img{
+    z-index: -1;
+    max-width:100%;
+    margin-right: 0px;
+    padding-right: 0px;
 }
 
 
