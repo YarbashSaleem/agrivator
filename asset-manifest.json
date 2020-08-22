@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/agrivator/static/css/main.5f361e03.chunk.css",
-    "main.js": "/agrivator/static/js/main.278a1422.chunk.js",
-    "main.js.map": "/agrivator/static/js/main.278a1422.chunk.js.map",
+    "main.js": "/agrivator/static/js/main.2d77a5ca.chunk.js",
+    "main.js.map": "/agrivator/static/js/main.2d77a5ca.chunk.js.map",
     "runtime-main.js": "/agrivator/static/js/runtime-main.35d6ef65.js",
     "runtime-main.js.map": "/agrivator/static/js/runtime-main.35d6ef65.js.map",
     "static/js/2.15979874.chunk.js": "/agrivator/static/js/2.15979874.chunk.js",
     "static/js/2.15979874.chunk.js.map": "/agrivator/static/js/2.15979874.chunk.js.map",
     "index.html": "/agrivator/index.html",
-    "precache-manifest.d40da96697f65f379b6aba2c668c4e14.js": "/agrivator/precache-manifest.d40da96697f65f379b6aba2c668c4e14.js",
+    "precache-manifest.05f6f4b3973685a0ccaf7f4058f249a1.js": "/agrivator/precache-manifest.05f6f4b3973685a0ccaf7f4058f249a1.js",
     "service-worker.js": "/agrivator/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/agrivator/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.15979874.chunk.js.LICENSE.txt": "/agrivator/static/js/2.15979874.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.35d6ef65.js",
     "static/js/2.15979874.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.278a1422.chunk.js"
+    "static/js/main.2d77a5ca.chunk.js"
   ]
 }
