@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe1200d17744cd94bc5e39b4f8049c56",
+    "revision": "21d593ae26591c8bafa5f0f47a4ffc6d",
     "url": "/agrivator/index.html"
   },
   {
-    "revision": "77d3c27b86e0e4ba966a",
+    "revision": "10a034dfcd07a9aadf64",
     "url": "/agrivator/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agrivator/static/js/2.15979874.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "77d3c27b86e0e4ba966a",
-    "url": "/agrivator/static/js/main.2d77a5ca.chunk.js"
+    "revision": "10a034dfcd07a9aadf64",
+    "url": "/agrivator/static/js/main.2d32ae57.chunk.js"
   },
   {
     "revision": "ae9cc243608f87e07708",
