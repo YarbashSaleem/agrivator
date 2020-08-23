@@ -7,7 +7,6 @@
     max-height: 110vh;
     max-width: 80vw;
     z-index: -1;
-    margin-inline: 0px;
 }
 .slider{
     width:90vw;
@@ -73,7 +72,7 @@
   .slide_content p{
     font-size: 20px;
     width: 25vw;
-    padding-inline: 2vw;
+    padding: 2vw;
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
     color: #4E4141;

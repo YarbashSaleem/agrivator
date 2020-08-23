@@ -16,7 +16,7 @@
     border-radius: .5vw;
     padding-top:.2em;
     padding-bottom:.2em;
-    padding-inline: 1em;
+    padding:0em 1em;
     font-size: 24px;
     font-weight: 300;
     letter-spacing: .2em;
@@ -28,7 +28,7 @@
 }
 .pics_container img{
     width: 15vw;
-    padding-inline: 1vw;
+    padding:0vw  1vw;
     border-radius: 20%;
 }
 .photo{
@@ -46,6 +46,6 @@
     height: 100vh;
 }
 .team_image{
-    transform:translateX(-41%);
+    margin-left: -25vw;
     z-index: -1;
 }
