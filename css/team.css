@@ -26,6 +26,13 @@
     display: flex;
     flex-direction: row;
 }
+.pics_container >div:hover{
+    transform:scale(1.1);
+    transition: .5s;
+}
+.pics_container >div{
+    transition:.5s;
+}
 .pics_container img{
     width: 15vw;
     padding:0vw  1vw;

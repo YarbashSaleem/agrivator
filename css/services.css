@@ -28,6 +28,13 @@
     width:20vw;
     margin-left:2px;
     margin-right:2px;
+    transition:.5s;
+}
+.card:hover{
+    transform:scale(1.1);
+    transition:.5s;
+    margin-left:20px;
+    margin-right:20px;
 }
 #card2{
     margin-top:-25px;
